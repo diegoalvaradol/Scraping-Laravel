@@ -7,3 +7,5 @@ Código desarrollado en php usando el framework de Laravel para realizar Scrapin
 * Este codigo fue realizado usando la libreria de Goutte.
 * Unicamente realziado con fines educativos.
 
+# Descarga 
+
